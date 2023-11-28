@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Mayaar-Irshad/NoSQL-injection-project/static/css/main.ca619c2c.css",
+    "main.js": "/Mayaar-Irshad/NoSQL-injection-project/static/js/main.dccb421b.js",
+    "index.html": "/Mayaar-Irshad/NoSQL-injection-project/index.html",
+    "main.ca619c2c.css.map": "/Mayaar-Irshad/NoSQL-injection-project/static/css/main.ca619c2c.css.map",
+    "main.dccb421b.js.map": "/Mayaar-Irshad/NoSQL-injection-project/static/js/main.dccb421b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca619c2c.css",
+    "static/js/main.dccb421b.js"
+  ]
+}
