@@ -1,6 +1,6 @@
 {
-  "homepage": "https://github.com/Mayaar-Irshad/my-nosql-injection-project",
-  "name": "nosql-insecure-site",
+  "homepage": "https://github.com/Mayaar-Irshad/NoSQL-injection-project",
+  "name": "nosql-insecure-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
