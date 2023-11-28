@@ -25,8 +25,8 @@ This website is designed as an educational platform to demonstrate the vulnerabi
 2. Navigate to the project directory, then to the frontend directory:
 
       ```
-      cd nosql-insecure-site
-      cd frontend/nosql-insecure-site/
+      cd NoSQL-injection-project
+      cd nosql-insecure-app
 
       ```
 3. Install dependencies:
@@ -47,7 +47,7 @@ This website is designed as an educational platform to demonstrate the vulnerabi
 2. Navigate to the project directory, then navigate to Backend directory: :
 
       ```
-      cd nosql-insecure-site
+      cd NoSQL-injection-project
       cd Backend
 
       ```
