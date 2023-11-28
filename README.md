@@ -20,7 +20,7 @@ This website is designed as an educational platform to demonstrate the vulnerabi
 
 1. Clone the repository:
    ```
-   git clone https://github.com/Mayaar-Irshad/my-nosql-injection-project.git
+   git clone https://github.com/Mayaar-Irshad/NoSQL-injection-project.git
 
 2. Navigate to the project directory, then to the frontend directory:
 
